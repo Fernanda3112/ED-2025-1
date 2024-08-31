@@ -29,7 +29,7 @@ int main(){
           
         }
 
-        // Rellenar las filas con los números 
+        // Rellenar las filas con los nÃºmeros 
         for (int j = 0; j < numeros; j++) {
             matriz[i][j] = numeros;
         }
